@@ -1,0 +1,26 @@
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.csprojResolveAssemblyReference.cache
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\bin\Debug\Monopoly.Test.dll
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\bin\Debug\Monopoly.Test.pdb
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\bin\Debug\Monopoly.exe
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\bin\Debug\Monopoly.pdb
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.dll
+C:\Users\nicks_000\Desktop\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.pdb
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.Test.dll
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.Test.pdb
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.exe
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.pdb
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.csprojResolveAssemblyReference.cache
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.dll
+C:\Users\spic01\Dropbox\Projects\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.pdb
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.Test.dll
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.Test.pdb
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.exe
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.pdb
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\bin\Debug\Monopoly.exe.config
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.csprojResolveAssemblyReference.cache
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.dll
+D:\Google Drive\Projects\Monopoly\Monopoly.Test\obj\Debug\Monopoly.Test.pdb
